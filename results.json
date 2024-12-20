@@ -1,0 +1,14 @@
+{
+    "model": "GradientBoosting",
+    "accuracy": 0.7977288857345636,
+    "precision": 0.657243816254417,
+    "recall": 0.49732620320855614,
+    "f1": 0.5662100456621004,
+    "roc_auc": 0.8462373091529101,
+    "best_params": {
+        "clf__learning_rate": 0.05,
+        "clf__max_depth": 3,
+        "clf__n_estimators": 100
+    },
+    "timestamp": "2024-12-16T21:55:00.560580"
+}
